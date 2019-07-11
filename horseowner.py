@@ -7,6 +7,8 @@ Horse racing crawling : Thanks to the 마사회
 
 """
 
+
+import numpy as np
 import os
 import pandas as pd
 from bs4 import BeautifulSoup
